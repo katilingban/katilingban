@@ -18,7 +18,9 @@ License: GPL-3
 Imports: 
     httr,
     googledrive,
-    googlesheets4
+    googlesheets4,
+    ggmap,
+    tibble
 Encoding: UTF-8
 Language: en-gb
 LazyData: true
