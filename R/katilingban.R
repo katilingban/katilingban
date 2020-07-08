@@ -16,6 +16,8 @@
 #' @importFrom httr oauth_app
 #' @importFrom googledrive drive_auth_configure
 #' @importFrom googlesheets4 read_sheet
+#' @importFrom ggmap geocode
+#' @importFrom tibble tibble
 #'
 #'
 #
