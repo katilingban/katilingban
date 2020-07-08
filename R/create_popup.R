@@ -37,7 +37,7 @@ create_popup_content <- function(.data) {
   tooltip[seq_len(nrow(.data))] <- paste(programme, support, methods, location, sep = "<br/>")
 
   ## Add tooltip to .data
-  kb_experience <- data.frame(kb_experience, tooltip)
+  kb_experience <- data.frame(.data, tooltip)
 
   ## Convert to tibble
   kb_experience <- tibble::tibble(kb_experience)
