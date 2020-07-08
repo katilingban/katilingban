@@ -1,0 +1,27 @@
+Package: katilingban
+Type: Package
+Title: General Purpose Functions for Katilingban
+Version: 0.1.0
+Authors@R: c(person(given = "Ernest", family = "Guevarra", 
+                    email = "ernest@guevarra.io", role = c("aut", "cre"),
+                    comment = c(ORCID = "0000-0002-4887-4415")),
+             person(given = "Abdoul Aziz", family = "Goza", role = "aut"),
+             person(given = "Emmanuel", family = "Mandalazi", role = "aut"),
+             person(given = "Lio", family = "Fieschi", role = "aut"))
+Description: To support general and non-specific organisational tasks requiring 
+    or supported by R, this package provides general purpose functions that 
+    facilitate performant and efficient implementation of standardised workflows. 
+    This is particularly useful for website update, newsletter generation,
+    reports, notes and other related tasks that are or will be automated or
+    supported within R.
+License: GPL-3
+Imports: 
+    httr,
+    googledrive,
+    googlesheets4
+Encoding: UTF-8
+Language: en-gb
+LazyData: true
+URL: https://github.com/katilingban/katilingban
+BugReports: https://github.com/katilingban/katilingban/issues
+RoxygenNote: 7.1.1
