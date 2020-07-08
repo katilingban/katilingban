@@ -5,7 +5,7 @@
 \title{Get coordinates of areas that point to areas of experience of Katilingban
 consultants}
 \usage{
-get_kb_coordinates(.data = read_kb_experience())
+get_kb_coordinates(.data)
 }
 \arguments{
 \item{.data}{Object containing information on Katilingban consultants'

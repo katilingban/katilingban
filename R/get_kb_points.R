@@ -22,7 +22,7 @@
 #
 ################################################################################
 
-get_kb_coordinates <- function(.data = read_kb_experience()) {
+get_kb_coordinates <- function(.data) {
   ## Create vector of area names
   location <- with(.data,
                    ifelse(is.na(subnational_location), country,
