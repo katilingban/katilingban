@@ -14,7 +14,7 @@ using \code{read_kb_experience} function.}
 }
 \value{
 A tibble containing the same information as the original input data
-  but with longitude and latitude coordinates included.
+but with longitude and latitude coordinates included.
 }
 \description{
 Get coordinates of areas that point to areas of experience of Katilingban
