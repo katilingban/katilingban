@@ -11,6 +11,7 @@ experimental](https://img.shields.io/badge/lifecycle-Experimental-orange.svg)](h
 status](https://github.com/katilingban/katilingban/workflows/R-CMD-check/badge.svg)](https://github.com/katilingban/katilingban/actions)
 [![R build
 status](https://github.com/katilingban/katilingban/workflows/test-coverage/badge.svg)](https://github.com/katilingban/katilingban/actions)
+[![CodeFactor](https://www.codefactor.io/repository/github/katilingban/katilingban/badge)](https://www.codefactor.io/repository/github/katilingban/katilingban)
 <!-- badges: end -->
 
 To support general and non-specific organisational tasks requiring or
