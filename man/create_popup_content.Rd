@@ -12,7 +12,7 @@ point location.}
 }
 \value{
 A vector of character values with length equal to the number of
-  mapped point locations
+mapped point locations
 }
 \description{
 Given point location data, this function facilitates the creation of
