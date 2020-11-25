@@ -7,6 +7,10 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-Experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
+[![R build
+status](https://github.com/katilingban/katilingban/workflows/R-CMD-check/badge.svg)](https://github.com/katilingban/katilingban/actions)
+[![R build
+status](https://github.com/katilingban/katilingban/workflows/test-coverage/badge.svg)](https://github.com/katilingban/katilingban/actions)
 <!-- badges: end -->
 
 To support general and non-specific organisational tasks requiring or

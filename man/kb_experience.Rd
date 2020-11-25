@@ -5,7 +5,21 @@
 \alias{kb_experience}
 \title{Katilingban consultants' experience list}
 \format{
-A tibble with 141 rows and 12 columns
+A tibble with 141 rows and 12 columns\tabular{ll}{
+   \strong{Variable} \tab \strong{Description} \cr
+   \code{project_name} \tab Name of project \cr
+   \code{type1} \tab Project type 1 \cr
+   \code{type2} \tab Project type 2 \cr
+   \code{type3} \tab Project type 3 \cr
+   \code{year} \tab Year of project \cr
+   \code{country} \tab Country location of project \cr
+   \code{subnational_location} \tab Subnational location of project \cr
+   \code{consultant} \tab Name of consultant \cr
+   \code{location} \tab Full name of location \cr
+   \code{lon} \tab Longitude coordinate of project location \cr
+   \code{lat} \tab Latitude coordinate of project location \cr
+   \code{tooltip} \tab Tooltip \cr
+}
 }
 \usage{
 kb_experience
