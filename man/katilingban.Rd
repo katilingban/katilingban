@@ -2,8 +2,8 @@
 % Please edit documentation in R/katilingban.R
 \docType{package}
 \name{katilingban}
-\alias{katilingban}
 \alias{katilingban-package}
+\alias{katilingban}
 \title{General Purpose Functions for Katilingban}
 \description{
 To support general and non-specific organisational tasks requiring or
