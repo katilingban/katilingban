@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://katilingban.io/katilingban/404.html</loc>
+  </url>
+  <url>
+    <loc>https://katilingban.io/katilingban/LICENSE.html</loc>
+  </url>
+  <url>
+    <loc>https://katilingban.io/katilingban/authors.html</loc>
+  </url>
+  <url>
     <loc>https://katilingban.io/katilingban/index.html</loc>
   </url>
   <url>
@@ -11,6 +20,9 @@
   </url>
   <url>
     <loc>https://katilingban.io/katilingban/reference/get_kb_coordinates.html</loc>
+  </url>
+  <url>
+    <loc>https://katilingban.io/katilingban/reference/index.html</loc>
   </url>
   <url>
     <loc>https://katilingban.io/katilingban/reference/katilingban.html</loc>

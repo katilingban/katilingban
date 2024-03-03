@@ -7,10 +7,9 @@
 
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-Experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![R build
-status](https://github.com/katilingban/katilingban/workflows/R-CMD-check/badge.svg)](https://github.com/katilingban/katilingban/actions)
-[![R build
-status](https://github.com/katilingban/katilingban/workflows/test-coverage/badge.svg)](https://github.com/katilingban/katilingban/actions)
+[![R-CMD-check](https://github.com/katilingban/katilingban/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/katilingban/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/katilingban/katilingban/branch/main/graph/badge.svg)](https://app.codecov.io/gh/katilingban/katilingban?branch=main)
 [![CodeFactor](https://www.codefactor.io/repository/github/katilingban/katilingban/badge)](https://www.codefactor.io/repository/github/katilingban/katilingban)
 <!-- badges: end -->
 
@@ -24,18 +23,15 @@ related tasks that are or will be automated or supported within
 
 ## Installation
 
-You can install the released version of katilingban from
-[CRAN](https://CRAN.R-project.org) with:
+You can install `katilingban` from the Katilingban R universe repository
+as follows:
 
 ``` r
-install.packages("katilingban")
+install.packages(
+  "katilingban",
+  repos = c(
+    'https://katilingban.r-universe.dev', 
+    'https://cloud.r-project.org'
+  )
+)
 ```
-
-And the development version from [GitHub](https://github.com/) with:
-
-``` r
-if(!require(remotes)) install.packages("remotes")
-remotes::install_github("katilingban/katilingban")
-```
-
-## Usage
