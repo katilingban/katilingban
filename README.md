@@ -8,6 +8,7 @@
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-Experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![R-CMD-check](https://github.com/katilingban/katilingban/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/katilingban/actions/workflows/R-CMD-check.yaml)
+[![test-coverage](https://github.com/katilingban/katilingban/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/katilingban/katilingban/actions/workflows/test-coverage.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/katilingban/katilingban/branch/main/graph/badge.svg)](https://app.codecov.io/gh/katilingban/katilingban?branch=main)
 [![CodeFactor](https://www.codefactor.io/repository/github/katilingban/katilingban/badge)](https://www.codefactor.io/repository/github/katilingban/katilingban)
